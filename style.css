@@ -15,8 +15,8 @@
 
 body{
     background-color: var(--color_bg_main);
-    display: flex;
-    justify-content: center;
+    /* display: flex; */
+    /* justify-content: center; */
     
     margin: 0px;
 }
